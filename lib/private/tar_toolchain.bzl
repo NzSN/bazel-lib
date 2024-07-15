@@ -52,8 +52,8 @@ BSDTAR_PREBUILT = {
         "745199d4314fc526772f450fb718ff116e4adb6de772c3d7da90e81a095fbcbe",
     ),
     "windows_amd64": (
-        "https://github.com/libarchive/libarchive/releases/download/v3.7.2/libarchive-v3.7.2-amd64.zip",
-        "e06f10043b1b148eb38ad06cff678af05beade0bdd2edd8735a198c521fa3993",
+        "https://github.com/libarchive/libarchive/releases/download/v3.6.2/libarchive-v3.6.2-amd64.zip",
+        "f369435da8d33bcc5f32c1bf539ad88270982f561dc21ce84be8b8211c085e1b",
     ),
 }
 
